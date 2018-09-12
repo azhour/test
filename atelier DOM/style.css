@@ -1,0 +1,15 @@
+.blue{
+  width: 300px;
+  height: 300px;
+  background-color: blue;
+}
+
+.hidden{
+  visibility: hidden;
+}
+
+.grey{
+  width: 100px;
+  height: 100px;
+  background-color: grey;
+}
